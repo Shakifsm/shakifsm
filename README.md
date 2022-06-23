@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **Shakif20@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QveK5BO7DNaeiCUN2SpIfsqf39TMVDs3/view?usp=sharing](https://drive.google.com/file/d/1QveK5BO7DNaeiCUN2SpIfsqf39TMVDs3/view?usp=sharing)
-
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1QveK5BO7DNaeiCUN2SpIfsqf39TMVDs3/view?usp=sharing](https://drive.google.com/file/d/1Z7r3ww_P-6abaOtCCxJIvvv7LQI3-l3p/view?usp=sharing)]
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
